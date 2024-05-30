@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=WindSong:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+.main-content{
+    width: 100%;
+    height: 100vh; 
+}
+
+.main-content img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;  
+ }
+
+ .apresent {
+    width: 100%;
+    margin-top: 500px;
+    position: absolute;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.444);
+    color: aliceblue;   
+
+  
+ }
+
+ h1{
+    width: 100%;
+    height: 70px;
+    font-size: 60px;
+    font-family: "WindSong", cursive;
+    font-weight: normal;
+ }

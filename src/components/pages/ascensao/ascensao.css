@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Philosopher", sans-serif;  
+}
+
+
+
+.main {
+    width: 100%;
+    background-image: linear-gradient(to top, #072483, #c5caf7);
+    display: table;
+}
+
+#ascensao {
+    display: inline-block;
+    margin-left: 4%;  
+    margin-top: 2%;
+;
+
+}
+
+#talentos {
+    margin-top: 2%;
+    margin-left: 4%;
+    display: inline-block;
+}
+
+.wikitable.ascension-stats {
+    background-color:#e0e4ea;      
+} 
+
+
+.wikitable.ascension-stats td {
+    display: table-cell;
+    vertical-align: inherit;
+    border-color: rgb(12, 12, 12);   
+}
+
+
+
+.wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td {
+    border: 1px solid #060707;
+    padding: 0.2em 0.4em;
+}
+
+.wikitable>*>tr>th, .ooui-theme-fandomooui .wikitable>tr>th{
+    background-image: linear-gradient(to bottom, #071c5f, black);
+
+    color: #E0E4EA;
+}
+
+.wikitable.ascension-stats tr.ascension {
+    background-image: linear-gradient(to bottom, #071c5f, black);
+    color: white;
+    border-color: #030303;
+}
+
+.wikitable, .wikitable td, .wikitable th, .wikitable tr {
+    border-color: 1px solid #0c0c0e;
+}
+
+.card-container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    vertical-align: top;
+    text-align: center;
+    gap: 2px;
+    margin: 2px;
+}
+
+.card-font {
+    color: #02122d;
+    font-family: "Genshin";
+}
+
+.card-text {
+    display: block;
+    font-size: 15px;
+    line-height: 16px;
+    height: 16px;
+    overflow-wrap: anywhere;
+    position: relative;
+    top: 2px;
+    text-align: center;
+    color: #000;
+}
+
+.card-body {
+    display: block;
+    width: min-content;
+    box-shadow: 0 0 5px #5c5752;
+    border-radius: 5px;
+    overflow: hidden;
+    background: #F2F2F2;
+    background: linear-gradient(transparent 10px,#f8f9fa 10px);
+    text-align: center;
+  
+}
+
+
+.card-image {
+    display: flex;
+    width: 74px;
+    height: 74px;
+    border-bottom-right-radius: 14px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-rarity-0, .card-rarity-1, .card-quality-0, .card-quality-1 {
+    background: #a4a4a4;
+    background: linear-gradient(0deg,#a4a4a4 0%,#76787c 100%);
+    background: url(https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Quality_1_background.png/);
+
+}
+
+.card-rarity-2, .card-quality-2 {
+    background: #5D8C81;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(93, 140, 129);
+    background: linear-gradient(0deg,#5D8C81 0%,#4E7E6C 100%);
+    background-image: linear-gradient(0deg, rgb(93, 140, 129) 0%, rgb(78, 126, 108) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background: url(https://static.wikia.nocookie.net/gensin-impact/images/7/71/Quality_2_background.png/);
+    background-image: url(https://static.wikia.nocookie.net/gensin-impact/images/7/71/Quality_2_background.png/);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+.card-rarity-3, .card-quality-3 {
+    background: #6faaca;
+    background: linear-gradient(0deg,#6faaca 0%,#697b9b 100%);
+    background-image: linear-gradient(0deg, rgb(111, 170, 202) 0%, rgb(105, 123, 155) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background: url(https://static.wikia.nocookie.net/gensin-impact/images/4/42/Quality_3_background.png/);
+    background-image: url(https://static.wikia.nocookie.net/gensin-impact/images/4/42/Quality_3_background.png/);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+.card-rarity-4, .card-quality-4 {
+    background: #917ab1;
+    background: linear-gradient(0deg,#917ab1 0%,#6c6192 100%);
+    background: url(https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Quality_4_background.png/);
+}
+
+.card-rarity-5, .card-quality-5 {
+    background: #9a6d43;
+    background: linear-gradient(0deg,#de9552 0%,#9a6d43 100%);
+    background: url(https://static.wikia.nocookie.net/gensin-impact/images/8/84/Quality_5_background.png/);
+}
+
+
+.wikitable3 {
+    display: block;    
+}
+
+.wikitable3 td {
+    display: table-cell;
+    vertical-align: inherit;
+    border-color: rgb(174, 174, 174);
+  
+    
+}
+   
+
+.wikitable3 > tr > th, .wikitable3 > tr > td, .wikitable3 > * > tr > th, .wikitable3 > * > tr > td {
+    border:  solid #f1e1e1;
+
+}
+
+
+.wikitable3>*>tr>th, .wikitable3>tr>th{
+    background-image: linear-gradient(to bottom, #071c5f, black);
+    color: #e0e4ea;
+    height: 63px;
+   
+}
+.wikitable3 tr {
+    background-color:#c0ccda;
+    
+   
+}
+.card-caption a{
+    color: rgb(47, 28, 219);
+ 
+}
+.wikitable3, .wikitable3 tr, .wikitable3 td { 
+    color:rgb(14, 15, 15)    
+}
+
+.wikitable3 tr>th {
+    border-color: #eadfdf;
+    background-color:#C0CCDA;
+    
+}
+
+
+ 
+

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Philosopher", sans-serif;
+   
+}
+body{
+    background-color: #000149;
+}
+.delim {
+    height: 100%;
+    display: block;
+    background-image: linear-gradient(to top, #071c5f, black);
+    color: #e0ecec;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    text-align: center;
+    padding: 0;
+    border-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.genshin_table {
+    display: table-row;
+    word-break: normal;   
+   
+}
+
+.genshin_table tr{   
+    display: table-row;
+    color: #e0ecec;    
+    border-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 2px;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+ 
+   
+}
+.genshin_table td {
+    width: 100%;
+    vertical-align: middle;
+    background-color: #0b39d386;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 2px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 10px;
+    padding-left: 2px;
+    text-align: justify;
+  
+}
+a {
+text-decoration: none;
+color: #e0ecec;
+
+}
+
+
+.genshin_table thead tr, .skill_table tr:first-child td:nth-child(2) {
+    background-image: linear-gradient(to bottom, #071c5f, black);
+    padding: 3px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    font-size: 16px;
+    font-weight: 60;
+ 
+}
+
+
+.skill_table tr:first-child td:nth-child(1) img {
+    width: 50px;
+    
+}
+
+.skill_table img {
+    max-height: 50px;
+}
+
+.skill_table tr:first-child td:nth-child(1) {
+    width: 85px;
+    text-align: center;
+    background-color: #000149;
+
+}
+
+
