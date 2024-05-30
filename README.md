@@ -1,3 +1,11 @@
+# Guia sobre o personagem Neuvillette (Neuvillette Character Guide)
+
+![Captura de tela_30-5-2024_10587_localhost](https://github.com/rebecamaciel777/projects/assets/94745268/4f0368cc-4a39-4fbf-8968-30aaeb18ab4e)
+
+## NavBar Responsive
+![Slide1](https://github.com/rebecamaciel777/projects/assets/94745268/5c24c10e-fb4b-41bb-97f5-0441aed6cada)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
