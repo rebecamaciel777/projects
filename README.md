@@ -1,80 +1,88 @@
-# Guia sobre o personagem Neuvillette (Neuvillette Character Guide)
+<div align="center">
 
-![Captura de tela_30-5-2024_10587_localhost](https://github.com/rebecamaciel777/projects/assets/94745268/4f0368cc-4a39-4fbf-8968-30aaeb18ab4e)
+# 💧⚖️🏛️ Neuvillette Fan Project | Projeto de Fã do Neuvillette
 
-## NavBar Responsive
-![Slide1](https://github.com/rebecamaciel777/projects/assets/94745268/5c24c10e-fb4b-41bb-97f5-0441aed6cada)
+This is my **first fan project**, created using **HTML, CSS, and JavaScript**!  
+Explore the character's **ascension**, **builds**, **gameplay tips**, and **constellations**.  
+
+Este é o meu **primeiro projeto de fã**, criado com **HTML, CSS e JavaScript**!  
+Explore a **ascensão**, **builds**, **dicas de gameplay** e **constelações** do personagem!
+
+</div>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://neuvillette-alpha.vercel.app/" target="_blank" style="
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 25px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      font-size: 16px;
+  ">
+    🌐 Visit Website
+  </a>
+</div>
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/343a8049-adba-4b5e-b9ed-3132dca2d039" width="250" alt="Neuvillette GIF">
+</div>
+  
 
-## Available Scripts
+## 🔹 About the Project | Sobre o Projeto
 
-In the project directory, you can run:
+**🇺🇸 English:**  
+This is my first personal fan project focused on the Genshin Impact character **Neuvillette**.  
+Users can navigate through different sections to learn about the character's:
 
-### `npm start`
+- **Ascension** – Materials and levels required to ascend the character.  
+- **Build** – Recommended weapons, artifacts, and stats.  
+- **Gameplay** – Tips and strategies for using Neuvillette effectively.  
+- **Constellations** – Detailed explanation of each constellation and effects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**🇧🇷 Português:**  
+Este é o meu primeiro projeto pessoal de fã focado no personagem **Neuvillette** de Genshin Impact.  
+Os usuários podem navegar por diferentes seções para aprender sobre:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Ascensão** – Materiais e níveis necessários para ascender o personagem.  
+- **Build** – Armas, artefatos e estatísticas recomendadas.  
+- **Gameplay** – Dicas e estratégias para usar Neuvillette de forma eficiente.  
+- **Constelações** – Explicação detalhada de cada constelação e seus efeitos.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Technologies Used | Tecnologias Usadas
 
-### `npm run build`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖼️ Screenshots | Capturas de Tela
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="center"> 
+  <img src="https://github.com/rebecamaciel777/projects/assets/94745268/4f0368cc-4a39-4fbf-8968-30aaeb18ab4e" width="500" />
+ 
+</div>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Features | Funcionalidades
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**🇺🇸 English:**  
+- Interactive navigation between **Ascension**, **Build**, **Gameplay**, and **Constellations**.  
+- Clean design with **CSS animations** for smooth user experience.  
+- Fully responsive and optimized for desktop and mobile.  
+- Educational content about **Neuvillette** for Genshin Impact fans.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**🇧🇷 Português:**  
+- Navegação interativa entre **Ascensão**, **Build**, **Gameplay** e **Constelações**.  
+- Design limpo com **animações em CSS** para experiência suave.  
+- Totalmente responsivo e otimizado para desktop e mobile.  
+- Conteúdo educativo sobre **Neuvillette** para fãs de Genshin Impact.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+---
 
